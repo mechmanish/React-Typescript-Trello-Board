@@ -1,0 +1,50 @@
+.App {
+  background: #0079bf;
+  height: 100%;
+}
+
+.ticket_section {
+  height: 89vh;
+  white-space: nowrap;
+  padding: 50px 10px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  zoom: 1;
+}
+
+.ticket_column {
+  width: 270px;
+  display: inline-block;
+  height: 100%;
+  overflow: hidden;
+  min-height: 100px;
+  background-color: #e2e4e6;
+  box-shadow: 1px 1px 1px rgb(0 0 0 / 50%);
+  border-radius: 3px;
+  padding-bottom: 32px;
+  margin-right: 20px;
+  vertical-align: top;
+}
+
+header {
+  padding-left: 10px;
+}
+
+.columnTitle {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #4d4d4d;
+  white-space: normal;
+  width: 100%;
+}
+
+.columnTickets {
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 95%;
+  padding-bottom: 25px;
+}
+
+/* .placeholder {
+  background: gray;
+} */

@@ -1,0 +1,940 @@
+[
+    {
+        "id": "0000",
+        "title": "Internal Web Planner",
+        "avatar": "images/0.jpg",
+        "name": "Brianne Crooks",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/1.jpg",
+            "images/2.jpg",
+            "images/3.jpg"
+        ],
+        "removed": "images/4.jpg"
+    },
+    {
+        "id": "0001",
+        "title": "National Mobility Officer",
+        "avatar": "images/1.jpg",
+        "name": "Dasia Hills",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/5.jpg",
+            "images/6.jpg"
+        ],
+        "removed": "images/9.jpg"
+    },
+    {
+        "id": "0002",
+        "title": "Forward Identity Architect",
+        "avatar": "images/2.jpg",
+        "name": "Shayna Gutmann",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/7.jpg",
+            "images/1.jpg"
+        ],
+        "removed": "images/5.jpg"
+    },
+    {
+        "id": "0003",
+        "title": "Global Tactics Assistant",
+        "avatar": "images/3.jpg",
+        "name": "Angie Breitenberg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/5.jpg",
+            "images/6.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0004",
+        "title": "Regional Optimization Architect",
+        "avatar": "images/4.jpg",
+        "name": "Petra Gleason",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/5.jpg",
+            "images/6.jpg",
+            "images/7.jpg"
+        ],
+        "removed": "images/8.jpg"
+    },
+    {
+        "id": "0005",
+        "title": "Chief Infrastructure Developer",
+        "avatar": "images/5.jpg",
+        "name": "Kamille Kovacek",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/6.jpg",
+            "images/2.jpg",
+            "images/8.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0006",
+        "title": "Lead Assurance Analyst",
+        "avatar": "images/6.jpg",
+        "name": "Ivory Roberts",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/7.jpg",
+            "images/8.jpg",
+            "images/9.jpg"
+        ],
+        "removed": "images/10.jpg"
+    },
+    {
+        "id": "0007",
+        "title": "Legacy Infrastructure Officer",
+        "avatar": "images/7.jpg",
+        "name": "Mathias Rau",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/8.jpg",
+            "images/9.jpg",
+            "images/10.jpg"
+        ],
+        "removed": "images/11.jpg"
+    },
+    {
+        "id": "0008",
+        "title": "International Operations Designer",
+        "avatar": "images/8.jpg",
+        "name": "Zackary Koss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/9.jpg",
+            "images/10.jpg",
+            "images/11.jpg"
+        ],
+        "removed": "images/12.jpg"
+    },
+    {
+        "id": "0009",
+        "title": "Dynamic Web Coordinator",
+        "avatar": "images/9.jpg",
+        "name": "Sophie Sipes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/10.jpg",
+            "images/11.jpg",
+            "images/12.jpg"
+        ],
+        "removed": "images/13.jpg"
+    },
+    {
+        "id": "0010",
+        "title": "Regional Usability Director",
+        "avatar": "images/10.jpg",
+        "name": "Keanu Armstrong",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/11.jpg",
+            "images/12.jpg",
+            "images/13.jpg"
+        ],
+        "removed": "images/14.jpg"
+    },
+    {
+        "id": "0011",
+        "title": "Dynamic Solutions Consultant",
+        "avatar": "images/11.jpg",
+        "name": "Kim Johnston",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/14.jpg",
+            "images/15.jpg",
+            "images/16.jpg"
+        ],
+        "removed": "images/44.jpg"
+    },
+    {
+        "id": "0012",
+        "title": "Investor Usability Officer",
+        "avatar": "images/12.jpg",
+        "name": "Rudy Dibbert",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/13.jpg",
+            "images/14.jpg",
+            "images/15.jpg"
+        ],
+        "removed": "images/16.jpg"
+    },
+    {
+        "id": "0013",
+        "title": "District Operations Analyst",
+        "avatar": "images/13.jpg",
+        "name": "Herminio Muller",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/14.jpg",
+            "images/15.jpg",
+            "images/16.jpg"
+        ],
+        "removed": "images/35.jpg"
+    },
+    {
+        "id": "0014",
+        "title": "Internal Web Planner",
+        "avatar": "images/14.jpg",
+        "name": "Brianne Crooks",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/15.jpg",
+            "images/26.jpg",
+            "images/32.jpg"
+        ],
+        "removed": "images/3.jpg"
+    },
+    {
+        "id": "0015",
+        "title": "National Mobility Officer",
+        "avatar": "images/15.jpg",
+        "name": "Dasia Hills",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/16.jpg",
+            "images/33.jpg",
+            "images/9.jpg"
+        ],
+        "removed": "images/19.jpg"
+    },
+    {
+        "id": "0016",
+        "title": "Forward Identity Architect",
+        "avatar": "images/16.jpg",
+        "name": "Shayna Gutmann",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/24.jpg",
+            "images/12.jpg",
+            "images/1.jpg"
+        ],
+        "removed": "images/5.jpg"
+    },
+    {
+        "id": "0017",
+        "title": "Global Tactics Assistant",
+        "avatar": "images/2.jpg",
+        "name": "Angie Breitenberg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/23.jpg",
+            "images/25.jpg",
+            "images/19.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0018",
+        "title": "Regional Optimization Architect",
+        "avatar": "images/29.jpg",
+        "name": "Petra Gleason",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/5.jpg",
+            "images/6.jpg",
+            "images/7.jpg"
+        ],
+        "removed": "images/8.jpg"
+    },
+    {
+        "id": "0019",
+        "title": "Chief Infrastructure Developer",
+        "avatar": "images/19.jpg",
+        "name": "Kamille Kovacek",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/23.jpg",
+            "images/24.jpg",
+            "images/25.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0020",
+        "title": "Lead Assurance Analyst",
+        "avatar": "images/23.jpg",
+        "name": "Ivory Roberts",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/5.jpg",
+            "images/8.jpg",
+            "images/9.jpg"
+        ],
+        "removed": "images/2.jpg"
+    },
+    {
+        "id": "0021",
+        "title": "Legacy Infrastructure Officer",
+        "avatar": "images/24.jpg",
+        "name": "Mathias Rau",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/28.jpg",
+            "images/29.jpg",
+            "images/10.jpg"
+        ],
+        "removed": "images/11.jpg"
+    },
+    {
+        "id": "0022",
+        "title": "International Operations Designer",
+        "avatar": "images/5.jpg",
+        "name": "Zackary Koss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/9.jpg",
+            "images/10.jpg",
+            "images/11.jpg"
+        ],
+        "removed": "images/12.jpg"
+    },
+    {
+        "id": "0023",
+        "title": "Dynamic Web Coordinator",
+        "avatar": "images/3.jpg",
+        "name": "Sophie Sipes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/10.jpg",
+            "images/11.jpg",
+            "images/12.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0024",
+        "title": "Regional Usability Director",
+        "avatar": "images/24.jpg",
+        "name": "Keanu Armstrong",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/1.jpg",
+            "images/12.jpg",
+            "images/13.jpg"
+        ],
+        "removed": "images/14.jpg"
+    },
+    {
+        "id": "0025",
+        "title": "Dynamic Solutions Consultant",
+        "avatar": "images/25.jpg",
+        "name": "Kim Johnston",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/14.jpg",
+            "images/15.jpg",
+            "images/16.jpg"
+        ],
+        "removed": "images/30.jpg"
+    },
+    {
+        "id": "0026",
+        "title": "Investor Usability Officer",
+        "avatar": "images/26.jpg",
+        "name": "Rudy Dibbert",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/13.jpg",
+            "images/14.jpg",
+            "images/15.jpg"
+        ],
+        "removed": "images/16.jpg"
+    },
+    {
+        "id": "0027",
+        "title": "District Operations Analyst",
+        "avatar": "images/44.jpg",
+        "name": "Herminio Muller",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/14.jpg",
+            "images/15.jpg",
+            "images/16.jpg"
+        ],
+        "removed": "images/4.jpg"
+    },
+    {
+        "id": "0028",
+        "title": "Internal Web Planner",
+        "avatar": "images/28.jpg",
+        "name": "Brianne Crooks",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/1.jpg",
+            "images/2.jpg",
+            "images/3.jpg"
+        ],
+        "removed": "images/4.jpg"
+    },
+    {
+        "id": "0029",
+        "title": "National Mobility Officer",
+        "avatar": "images/29.jpg",
+        "name": "Dasia Hills",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/5.jpg",
+            "images/6.jpg"
+        ],
+        "removed": "images/9.jpg"
+    },
+    {
+        "id": "0030",
+        "title": "Forward Identity Architect",
+        "avatar": "images/30.jpg",
+        "name": "Shayna Gutmann",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/7.jpg",
+            "images/1.jpg"
+        ],
+        "removed": "images/5.jpg"
+    },
+    {
+        "id": "0031",
+        "title": "Global Tactics Assistant",
+        "avatar": "images/31.jpg",
+        "name": "Angie Breitenberg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/5.jpg",
+            "images/6.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0032",
+        "title": "Regional Optimization Architect",
+        "avatar": "images/32.jpg",
+        "name": "Petra Gleason",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/5.jpg",
+            "images/6.jpg",
+            "images/7.jpg"
+        ],
+        "removed": "images/8.jpg"
+    },
+    {
+        "id": "0033",
+        "title": "Chief Infrastructure Developer",
+        "avatar": "images/33.jpg",
+        "name": "Kamille Kovacek",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/6.jpg",
+            "images/2.jpg",
+            "images/8.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0034",
+        "title": "Lead Assurance Analyst",
+        "avatar": "images/34.jpg",
+        "name": "Ivory Roberts",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/7.jpg",
+            "images/8.jpg",
+            "images/9.jpg"
+        ],
+        "removed": "images/10.jpg"
+    },
+    {
+        "id": "0035",
+        "title": "Legacy Infrastructure Officer",
+        "avatar": "images/35.jpg",
+        "name": "Mathias Rau",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/8.jpg",
+            "images/9.jpg",
+            "images/10.jpg"
+        ],
+        "removed": "images/11.jpg"
+    },
+    {
+        "id": "0036",
+        "title": "International Operations Designer",
+        "avatar": "images/42.jpg",
+        "name": "Zackary Koss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/9.jpg",
+            "images/10.jpg",
+            "images/11.jpg"
+        ],
+        "removed": "images/12.jpg"
+    },
+    {
+        "id": "0037",
+        "title": "Dynamic Web Coordinator",
+        "avatar": "images/44.jpg",
+        "name": "Sophie Sipes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/10.jpg",
+            "images/11.jpg",
+            "images/12.jpg"
+        ],
+        "removed": "images/13.jpg"
+    },
+    {
+        "id": "0038",
+        "title": "Regional Usability Director",
+        "avatar": "images/10.jpg",
+        "name": "Keanu Armstrong",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/11.jpg",
+            "images/12.jpg",
+            "images/13.jpg"
+        ],
+        "removed": "images/14.jpg"
+    },
+    {
+        "id": "0039",
+        "title": "Dynamic Solutions Consultant",
+        "avatar": "images/11.jpg",
+        "name": "Kim Johnston",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/14.jpg",
+            "images/15.jpg",
+            "images/16.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0040",
+        "title": "Investor Usability Officer",
+        "avatar": "images/12.jpg",
+        "name": "Rudy Dibbert",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/13.jpg",
+            "images/14.jpg",
+            "images/15.jpg"
+        ],
+        "removed": "images/16.jpg"
+    },
+    {
+        "id": "0041",
+        "title": "District Operations Analyst",
+        "avatar": "images/13.jpg",
+        "name": "Herminio Muller",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/14.jpg",
+            "images/15.jpg",
+            "images/16.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0042",
+        "title": "Internal Web Planner",
+        "avatar": "images/28.jpg",
+        "name": "Brianne Crooks",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/1.jpg",
+            "images/2.jpg",
+            "images/3.jpg"
+        ],
+        "removed": "images/4.jpg"
+    },
+    {
+        "id": "0043",
+        "title": "National Mobility Officer",
+        "avatar": "images/29.jpg",
+        "name": "Dasia Hills",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/5.jpg",
+            "images/6.jpg"
+        ],
+        "removed": "images/9.jpg"
+    },
+    {
+        "id": "0044",
+        "title": "Forward Identity Architect",
+        "avatar": "images/30.jpg",
+        "name": "Shayna Gutmann",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/7.jpg",
+            "images/1.jpg"
+        ],
+        "removed": "images/5.jpg"
+    },
+    {
+        "id": "0045",
+        "title": "Global Tactics Assistant",
+        "avatar": "images/31.jpg",
+        "name": "Angie Breitenberg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/5.jpg",
+            "images/6.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0046",
+        "title": "Regional Optimization Architect",
+        "avatar": "images/32.jpg",
+        "name": "Petra Gleason",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/5.jpg",
+            "images/6.jpg",
+            "images/7.jpg"
+        ],
+        "removed": "images/8.jpg"
+    },
+    {
+        "id": "0047",
+        "title": "Chief Infrastructure Developer",
+        "avatar": "images/33.jpg",
+        "name": "Kamille Kovacek",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/6.jpg",
+            "images/2.jpg",
+            "images/8.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0048",
+        "title": "Lead Assurance Analyst",
+        "avatar": "images/34.jpg",
+        "name": "Ivory Roberts",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/7.jpg",
+            "images/8.jpg",
+            "images/9.jpg"
+        ],
+        "removed": "images/10.jpg"
+    },
+    {
+        "id": "0049",
+        "title": "Legacy Infrastructure Officer",
+        "avatar": "images/35.jpg",
+        "name": "Mathias Rau",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/8.jpg",
+            "images/9.jpg",
+            "images/10.jpg"
+        ],
+        "removed": "images/11.jpg"
+    },
+    {
+        "id": "0050",
+        "title": "International Operations Designer",
+        "avatar": "images/42.jpg",
+        "name": "Zackary Koss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/9.jpg",
+            "images/10.jpg",
+            "images/11.jpg"
+        ],
+        "removed": "images/12.jpg"
+    },
+    {
+        "id": "0051",
+        "title": "Dynamic Web Coordinator",
+        "avatar": "images/44.jpg",
+        "name": "Sophie Sipes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/10.jpg",
+            "images/11.jpg",
+            "images/12.jpg"
+        ],
+        "removed": "images/13.jpg"
+    },
+    {
+        "id": "0052",
+        "title": "Regional Usability Director",
+        "avatar": "images/10.jpg",
+        "name": "Keanu Armstrong",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/11.jpg",
+            "images/12.jpg",
+            "images/13.jpg"
+        ],
+        "removed": "images/14.jpg"
+    },
+    {
+        "id": "0053",
+        "title": "Dynamic Solutions Consultant",
+        "avatar": "images/11.jpg",
+        "name": "Kim Johnston",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/14.jpg",
+            "images/15.jpg",
+            "images/16.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0054",
+        "title": "Investor Usability Officer",
+        "avatar": "images/12.jpg",
+        "name": "Rudy Dibbert",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/13.jpg",
+            "images/14.jpg",
+            "images/15.jpg"
+        ],
+        "removed": "images/16.jpg"
+    },
+    {
+        "id": "0056",
+        "title": "District Operations Analyst",
+        "avatar": "images/13.jpg",
+        "name": "Herminio Muller",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/14.jpg",
+            "images/15.jpg",
+            "images/16.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0057",
+        "title": "Internal Web Planner",
+        "avatar": "images/0.jpg",
+        "name": "Brianne Crooks",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/1.jpg",
+            "images/2.jpg",
+            "images/3.jpg"
+        ],
+        "removed": "images/4.jpg"
+    },
+    {
+        "id": "0058",
+        "title": "National Mobility Officer",
+        "avatar": "images/1.jpg",
+        "name": "Dasia Hills",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/5.jpg",
+            "images/6.jpg"
+        ],
+        "removed": "images/9.jpg"
+    },
+    {
+        "id": "0059",
+        "title": "Forward Identity Architect",
+        "avatar": "images/2.jpg",
+        "name": "Shayna Gutmann",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/7.jpg",
+            "images/1.jpg"
+        ],
+        "removed": "images/5.jpg"
+    },
+    {
+        "id": "0060",
+        "title": "Global Tactics Assistant",
+        "avatar": "images/3.jpg",
+        "name": "Angie Breitenberg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/4.jpg",
+            "images/5.jpg",
+            "images/6.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0061",
+        "title": "Regional Optimization Architect",
+        "avatar": "images/4.jpg",
+        "name": "Petra Gleason",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/5.jpg",
+            "images/6.jpg",
+            "images/7.jpg"
+        ],
+        "removed": "images/8.jpg"
+    },
+    {
+        "id": "0062",
+        "title": "Chief Infrastructure Developer",
+        "avatar": "images/5.jpg",
+        "name": "Kamille Kovacek",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/6.jpg",
+            "images/2.jpg",
+            "images/8.jpg"
+        ],
+        "removed": "images/7.jpg"
+    },
+    {
+        "id": "0063",
+        "title": "Lead Assurance Analyst",
+        "avatar": "images/6.jpg",
+        "name": "Ivory Roberts",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/7.jpg",
+            "images/8.jpg",
+            "images/9.jpg"
+        ],
+        "removed": "images/10.jpg"
+    },
+    {
+        "id": "0064",
+        "title": "Legacy Infrastructure Officer",
+        "avatar": "images/7.jpg",
+        "name": "Mathias Rau",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/8.jpg",
+            "images/9.jpg",
+            "images/10.jpg"
+        ],
+        "removed": "images/11.jpg"
+    },
+    {
+        "id": "0065",
+        "title": "International Operations Designer",
+        "avatar": "images/8.jpg",
+        "name": "Zackary Koss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/9.jpg",
+            "images/10.jpg",
+            "images/11.jpg"
+        ],
+        "removed": "images/12.jpg"
+    },
+    {
+        "id": "0066",
+        "title": "Dynamic Web Coordinator",
+        "avatar": "images/9.jpg",
+        "name": "Sophie Sipes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/10.jpg",
+            "images/11.jpg",
+            "images/12.jpg"
+        ],
+        "removed": "images/13.jpg"
+    },
+    {
+        "id": "0067",
+        "title": "Regional Usability Director",
+        "avatar": "images/10.jpg",
+        "name": "Keanu Armstrong",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/11.jpg",
+            "images/12.jpg",
+            "images/13.jpg"
+        ],
+        "removed": "images/14.jpg"
+    },
+    {
+        "id": "0068",
+        "title": "Dynamic Solutions Consultant",
+        "avatar": "images/11.jpg",
+        "name": "Kim Johnston",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/14.jpg",
+            "images/15.jpg",
+            "images/16.jpg"
+        ],
+        "removed": "images/44.jpg"
+    },
+    {
+        "id": "0069",
+        "title": "Investor Usability Officer",
+        "avatar": "images/12.jpg",
+        "name": "Rudy Dibbert",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/13.jpg",
+            "images/14.jpg",
+            "images/15.jpg"
+        ],
+        "removed": "images/16.jpg"
+    },
+    {
+        "id": "0070",
+        "title": "District Operations Analyst",
+        "avatar": "images/13.jpg",
+        "name": "Herminio Muller",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/14.jpg",
+            "images/15.jpg",
+            "images/16.jpg"
+        ],
+        "removed": "images/35.jpg"
+    },
+    {
+        "id": "0071",
+        "title": "Internal Web Planner",
+        "avatar": "images/14.jpg",
+        "name": "Brianne Crooks",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/15.jpg",
+            "images/26.jpg",
+            "images/32.jpg"
+        ],
+        "removed": "images/3.jpg"
+    },
+    {
+        "id": "0072",
+        "title": "National Mobility Officer",
+        "avatar": "images/15.jpg",
+        "name": "Dasia Hills",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, banditos.",
+        "collaborators": [
+            "images/16.jpg",
+            "images/33.jpg",
+            "images/9.jpg"
+        ],
+        "removed": "images/19.jpg"
+    }
+
+
+]

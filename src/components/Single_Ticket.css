@@ -1,0 +1,83 @@
+.singleTicket {
+    background: #fff;
+    min-height: 100px;
+    border-radius: 5px;
+    width: 90%;
+    margin: 0 auto 10px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    transition: 0.15s;
+    cursor: pointer;
+}
+
+.singleTicket:hover {
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    transform: scale(1.02);
+}
+
+.dragActive {
+    transform: rotateX(20deg);
+}
+
+.ticketTitle {
+    width: 100%;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 10px;
+    margin: 0;
+}
+
+.content {
+    display: flex;
+    border: 1px solid #dbdbdb;
+    padding: 10px;
+}
+
+.user_avatar {
+    float: left;
+}
+
+.user_avatar img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.user_data {
+    white-space: normal;
+    margin-left: 10px;
+}
+
+.user_name {
+    font-size: 1rem;
+}
+
+.user_description {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 300;
+    margin: 5px 0;
+}
+
+.ticketFooter {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.ticketFooter div {
+    display: flex;
+}
+
+.footer_icon img {
+    width: 15px;
+    height: 15px;
+}
+
+.footer_user img {
+    margin-left: 5px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
